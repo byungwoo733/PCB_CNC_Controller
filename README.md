@@ -1,4 +1,5 @@
 # PCB_CNC_Controller
 CUSTOM PCB CNC Controller
-![tinkercad_com_20181230_223223](https://user-images.githubusercontent.com/14072045/50547733-e0e69380-0c82-11e9-9c05-9e5de8251746.png)
-![tinkercad_com_20181230_223203](https://user-images.githubusercontent.com/14072045/50547735-e0e69380-0c82-11e9-9fc7-24b69e674b74.png)
+![custom pcb plotter trial prototype 1](https://user-images.githubusercontent.com/14072045/50548026-2a39e180-0c89-11e9-82b3-cee6d72b6574.png)
+
+![custom pcb plotter trial prototype 2](https://user-images.githubusercontent.com/14072045/50548025-2a39e180-0c89-11e9-9b8c-b41f14c904d8.png)
