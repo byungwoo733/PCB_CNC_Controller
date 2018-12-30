@@ -1,2 +1,2 @@
 # PCB_CNC_Controller
-PCB CNC Controller
+CUSTOM PCB CNC Controller
