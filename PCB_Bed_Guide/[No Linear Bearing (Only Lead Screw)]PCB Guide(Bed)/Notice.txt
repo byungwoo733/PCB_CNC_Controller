@@ -1,0 +1,2 @@
+-Old Version Type(Hole Position Width & Low Height Guide Plate)
+-New Version Type(Wild Hole Position Width & High Height Guide Plate)
