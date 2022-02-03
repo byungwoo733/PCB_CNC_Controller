@@ -2,22 +2,26 @@
 CUSTOM PCB CNC Controller "ModuleStorm PCB System"
 
 =================
-
-System / Materials:
-- Arduino Uno (R3)
-- CNC Shield
-- A4988 (Stepper Motor Drive)
-- Nema17 X 3 (3 Axis)
+[System]
 
 GRBL: bCNC
 
 https://github.com/vlachoudis/bCNC
 
-PCB: KiCad
+PCB Design: KiCad
 
 PCB Prototyping CAD/CAM: Flatcam
 
 http://flatcam.org/
+
+---------------
+
+[Materials (Assembly)]
+
+- Arduino Uno (R3)
+- CNC Shield
+- A4988 (Stepper Motor Drive)
+- Nema17 X 3 (3 Axis)
 
 =================
 
