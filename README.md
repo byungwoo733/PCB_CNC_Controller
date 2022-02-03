@@ -11,6 +11,14 @@ System / Materials:
 
 GRBL: bCNC
 
+https://github.com/vlachoudis/bCNC
+
+PCB: KiCad
+
+PCB Prototyping CAD/CAM: Flatcam
+
+http://flatcam.org/
+
 =================
 
 ModuleStorm PCB System Series
