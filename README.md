@@ -1,7 +1,9 @@
-# PCB_CNC_Controller
+# PCB_CNC_Controller "ModuleStorm PCB System"
+
 CUSTOM PCB CNC Controller "ModuleStorm PCB System"
 
 =================
+
 [System]
 
 GRBL: bCNC
