@@ -12,6 +12,8 @@ https://github.com/vlachoudis/bCNC
 
 PCB Design: KiCad
 
+https://www.kicad.org/
+
 PCB Prototyping CAD/CAM: Flatcam
 
 http://flatcam.org/
