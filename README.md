@@ -24,7 +24,7 @@ http://flatcam.org/
 
 - Arduino Uno (R3) / Raspberry Pi Series
 - CNC Shield
-- A4988 (Stepper Motor Drive)
+- A4988 (Stepper Motor Driver)
 - Nema17 X 3 (3 Axis)
 
 =================
