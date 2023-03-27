@@ -22,7 +22,7 @@ http://flatcam.org/
 
 [Materials (Assembly)]
 
-- Arduino Uno (R3) / Raspberry Pi Series
+- Arduino Uno (R3) / Raspberry Pi Series / STM32 Series / Custom Single Comeputer Boards etc
 - CNC Shield
 - A4988 (Stepper Motor Driver)
 - Nema17 X 3 (3 Axis)
