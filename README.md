@@ -28,7 +28,7 @@ http://flatcam.org/
 - CNC Shield
 - A4988 (Stepper Motor Driver)
 - Nema17 X 3 (3 Axis)
-- CNC Spindle Motor
+- CNC Spindle Motor / Dremel 3000 Series
 
 =================
 
