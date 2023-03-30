@@ -6,6 +6,8 @@ CUSTOM PCB CNC Controller "ModuleStorm PCB System"
 
 [System]
 
+System Firmware: (Present) Custom Firmware (Development & Test)
+
 GRBL: bCNC
 
 https://github.com/vlachoudis/bCNC
