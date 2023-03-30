@@ -29,6 +29,7 @@ http://flatcam.org/
 - A4988 (Stepper Motor Driver)
 - Nema17 X 3 (3 Axis)
 - CNC Spindle Motor / Dremel 3000 Series
+- PCB Drill Bit
 
 =================
 
